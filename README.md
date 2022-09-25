@@ -11,12 +11,14 @@
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 ***
 * For step one the results of the summary analysis were as follows:
-    - insert picture of summary 
+    - ![Screen Shot 2022-09-25 at 4 26 42 PM](https://user-images.githubusercontent.com/111612130/192165049-0aee1693-6f11-4ca8-8775-77045702573f.png)
+
     - A few key items stand out based on this summary. 
         - First, Urban areas have the highest number of rides and drives, as expected, but there is much less opportunity from a diver standpoint as there is nearly 2X times as many drivers as rides. Additionally, the average fare per rider and per driver is lower, probably due to the shorter distances traveled in an urban environment. 
         - Second, rural areas offer the highest driver earnings as there are less drivers than rides and the average fare paid and average fair earned per driver is higher than all other city types, likely do to higher distances traveled.  
 * For step two the results of the visualized trip trends were as follows: 
-    - insert picture of graph 
+    - ![Screen Shot 2022-09-25 at 4 26 57 PM](https://user-images.githubusercontent.com/111612130/192165058-d3076254-7423-4b3d-8d74-a8b088d308e3.png)
+
     - A few key items stand out based on this visualization. 
         - Fares tended to be correlated across the board with all city types showing similar peeks and valleys, note peek shared across all types in the third week of February. 
         - Urban fares were more volatile having sharper peeks and valleys than the other data types, note the urban period from late February to April as compared to the other city types. 
