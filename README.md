@@ -11,7 +11,8 @@
 ## Results: 
 ***
 * For step one the results of the summary analysis were as follows:
-    - ![Screen Shot 2022-09-25 at 4 51 15 PM](https://user-images.githubusercontent.com/111612130/192165149-93b2bae1-7d0e-4690-bc62-b84d9f7f639c.png)
+    - <img width="627" alt="Screen Shot 2022-09-26 at 7 40 09 PM" src="https://user-images.githubusercontent.com/111612130/192399409-4ef39a73-2002-44c1-a668-f3042d96bf5a.png">
+
 
 
     - A few key items stand out based on this summary. 
